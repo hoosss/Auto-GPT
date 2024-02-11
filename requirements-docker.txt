@@ -26,3 +26,4 @@ isort
 gitpython==3.1.31
 tweepy
 jsonschema
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
